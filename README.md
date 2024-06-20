@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Florent0589
-- 👀 I’m interested in Python and Golang
+- 👀 I’m interested in Python, C# and Golang
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Golang or Python
+- 💞️ I’m looking to collaborate on Golang or Python or C#
 - 📫 How to reach me https://www.linkedin.com/in/ayanda0589/
 
 <!---
